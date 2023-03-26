@@ -1,0 +1,18 @@
+alteration works :
+
+1.) make a homepage with two internal webpages links- doctor's login and patient's login
+2.) patient's login should be done with the qr code but the doctor's login should be done with protected credentials as it requires high security.
+3.)doctor's login websage consists of the webpage - qr scanner and another link which when clicked opens the qr code generator link in the new tab.
+4.) in patient's webpage the qr code when scanned the patient gets his reports with the prescription and medication details.
+
+
+
+continuation :
+
+1.)create a database to store every patient's details and records of entry and exit for doctor's safety
+2.)create a online e-commerce to help the patients to buy the medicines by just using the qr code.
+
+
+future :
+
+try to replace the qr code with biometrics during entry/exit to doctor's hospital to ensure more feasibility and safety.

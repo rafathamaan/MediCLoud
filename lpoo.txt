@@ -1,0 +1,187 @@
+<!-- <!DOCTYPE html>
+<html lang='en'>
+    <head>HELLOO</head>
+    <a href="form.html">FORM</a> -->
+
+
+    <html>
+        <head>
+        <title>THE PHOENIX SOLUTIONS</title>
+        
+        <link rel="icon" type="image/x-icon" href="../FINAL/Screenshot_20230128-022007_Chrome.jpg" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- <style>
+        body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+        .w3-row-padding img {margin-bottom: 12px}
+        /* Remove margins from "page content" on small screens */
+        </style> -->
+        <style>
+            body {
+              background-image: url('science.jpg');
+              background-repeat: no-repeat;
+              background-attachment: fixed;
+              background-size: cover;
+            }
+            </style>
+        </head>
+        <body class="w3-black">
+        
+        <!-- Icon Bar (Sidebar - hidden on small screens) -->
+        
+        
+        <!-- Navbar on small screens (Hidden on medium and large screens) -->
+        
+        
+        <!-- Page Content -->
+        <div class="w3-padding-large" id="main">
+            <!-- Header/Home -->
+            <header class="w3-container w3-padding-32 w3-center w3-" id="home">
+                <h1 class="w3-jumbo"><span class="w3-hide-small">THE PHOENIX SOLUTIONS</span></h1>
+                <h4 <p>SELECT A ROLE</p> </h4>
+                </header>
+
+            <!-- Footer -->
+            <header class="w3-container w3-padding-32 w3-center w3- button:hover {
+                opacity: 0.8;}" id="main">
+                <h1 class="w3-jumbo"><span class="w3-hide-small">Doctor</span></h1>
+                <a href="newlogin.html">Click Here</a>
+                
+                </header>
+                <header class="w3-container w3-padding-32 w3-center w3-" id="main">
+                    <h1 class="w3-jumbo"><span class="w3-hide-small">Patient</span></h1>
+                    <a href="patientlogin.html">Click Here</a>
+                    </header>
+                
+            
+        
+           
+        
+          
+        <!-- Include Bootstrap for styling -->
+        <link rel="stylesheet" href=
+        "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+        
+        <style>
+            .qr-code {
+            max-width: 200px;
+            margin: 10px;
+            }
+        </style>
+        
+       
+        
+        </body>
+        </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- <!DOCTYPE html>
+<html lang='en'>
+    <head>HELLOO</head>
+    <a href="form.html">FORM</a> -->
+
+
+    <html>
+        <head>
+        <title>THE PHOENIX SOLUTIONS</title>
+        
+        <link rel="icon" type="image/x-icon" href="../FINAL/Screenshot_20230128-022007_Chrome.jpg" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!-- <style>
+        body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+        .w3-row-padding img {margin-bottom: 12px}
+        /* Remove margins from "page content" on small screens */
+        </style> -->
+        <style>
+            body {
+              background-image: url('science.jpg');
+              background-repeat: no-repeat;
+              background-attachment: fixed;
+              background-size: cover;
+            }
+            </style>
+        </head>
+        <body class="w3-black">
+        
+        <!-- Icon Bar (Sidebar - hidden on small screens) -->
+        
+        
+        <!-- Navbar on small screens (Hidden on medium and large screens) -->
+        
+        
+        <!-- Page Content -->
+        <div class="w3-padding-large" id="main">
+            <!-- Header/Home -->
+            <header class="w3-container w3-padding-32 w3-center w3-" id="home">
+                <h1 class="w3-jumbo"><span class="w3-hide-small">THE PHOENIX SOLUTIONS</span></h1>
+                <h4 <p>SELECT A ROLE</p> </h4>
+                </header>
+
+            <!-- Footer -->
+            <header class="w3-container w3-padding-32 w3-center w3-  id="main">
+                <ul>
+                   <li style="display:inline-block;"> <h1 class="w3-jumbo"><span class="w3-hide-small">Doctor&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</span></h1>
+                  </li>
+                    <li style="display:inline-block;">
+                        <h1 class="w3-jumbo"><span class="w3-hide-small">Patient</span></h1>
+                    </li>
+    
+
+                </ul>
+            </header>
+                <ul>
+                    <li style="display:inline-block;">
+                        <a href="login.html" style="text-decoration:none; color:#ffffff;"><h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Login</h2></a>
+                    </li>
+                    <li style="display:inline-block;">
+                        <a href="patientlogin.html" style="text-decoration:none; color:#ffffff; "><h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Login</h2></a>
+                    </li>
+                </ul>
+               
+                <!-- <a href="newlogin.html">Click here to Login</a>
+                
+                </header>
+                <header class="w3-container w3-padding-32 w3-center w3-" id="main">
+                    <h1 class="w3-jumbo"><span class="w3-hide-small">Patient</span></h1>
+                    <a href="patientlogin.html">Click here to Login</a>
+                    </header>
+                     -->
+                
+            
+        
+           
+        
+          
+        <!-- Include Bootstrap for styling -->
+        <link rel="stylesheet" href=
+        "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" />
+        
+        <style>
+            .qr-code {
+            max-width: 200px;
+            margin: 10px;
+            }
+        </style>
+        
+       
+        
+        </body>
+        </html>
